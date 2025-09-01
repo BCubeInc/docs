@@ -12,3 +12,4 @@ To delete an family in fmly app, you should follow following steps:
 3. You can see delete family button on the bottom. Only family admin can view and click this button.
 4. Click on delete family and confirm deletion.
 
+**All user and family data are deleted upon user/family data deletion.**
